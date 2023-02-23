@@ -1,0 +1,12 @@
+.habilidad {
+    padding: 0px 20px 20px;
+    background-color: rgb(98, 140, 230);
+    border-radius: 20px;
+}
+
+.text-hab {
+    font-size: 1.3rem;
+    color:rgb(252, 252, 252);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 15px;
+}

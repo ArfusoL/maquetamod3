@@ -1,0 +1,12 @@
+/**Educacion*/
+.card {
+    background: rgb(16,58,201);
+    background: linear-gradient(90deg, rgba(16,58,201,1) 22%, rgba(30,126,236,1) 58%);
+    color: rgb(252, 252, 252);
+    margin: 6px;
+}
+
+.card {
+    font-size: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
